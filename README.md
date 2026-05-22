@@ -20,7 +20,7 @@ A lightweight cybersecurity automation script built in PyCharm to parse server l
 
 *   **What it does:** Automatically flags Brute-Force login attempts based on failure thresholds and detects malicious SQL Injection patterns.
 *   **Skills applied:** Python dictionaries (`defaultdict`), file I/O operations, text parsing, and graceful exception handling.
-*   **Source Code:** Check out `log_parser.py` right here in this repository!
+*   **Source Code:** Check out `Security_Log_Parser` right here in this repository!
 
 ---
 
